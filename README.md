@@ -31,19 +31,19 @@ Optimize inventory and marketing strategies through data
 
 **🏆 Top Performing Products (by Sales %)**
 
-Product            	Sales %
+Product                         	Sales %
 
-Single Monk	        35.3%
+Single Monk	                      35.3%
 
-Sneakers           	17.2%
+Sneakers                         	17.2%
 
-Loafers	            14.5%
+Loafers	                          14.5%
+     
+Derby Shoes                     	13.6%
 
-Derby Shoes       	13.6%
+Brogues Shoes                    	9.7%
 
-Brogues Shoes      	9.7%
-
-Oxford Shoes	      9.6%
+Oxford Shoes	                    9.6%
 
 **🧾 Category Performance (by Quantity)**
 
@@ -61,17 +61,17 @@ Oxford Shoes	      9.6%
 
 **📍 Top 5 States by Sales Revenue**
 
-State	                  Sales Amount
+State	                              Sales Amount
 
-Uttar Pradesh          	₹5.21M
+Uttar Pradesh                       	₹5.21M
 
-West Bengal            	₹5.08M
+West Bengal                          	₹5.08M
 
-Maharashtra           	₹3.76M
+Maharashtra                          	₹3.76M
 
-Andhra Pradesh         	₹3.55M
-
-Madhya Pradesh	        ₹2.73M
+Andhra Pradesh                      	₹3.55M
+   
+Madhya Pradesh	                      ₹2.73M
 
 **🛠 Tools Used**
 
